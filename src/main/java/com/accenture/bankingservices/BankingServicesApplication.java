@@ -1,4 +1,4 @@
-package com.accenture.banking_services;
+package com.accenture.bankingservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

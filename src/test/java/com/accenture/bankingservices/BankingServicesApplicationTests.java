@@ -1,4 +1,4 @@
-package com.accenture.banking_services;
+package com.accenture.bankingservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
